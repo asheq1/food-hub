@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "description": "Classic pizza topped with mozzarella cheese and fresh basil.",
+      "price": 8.99,
+      "image": "/public/assets/pizza_Margherita.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 2,
+      "name": "Cheeseburger",
+      "description": "Juicy beef patty with cheddar cheese, lettuce, and tomato.",
+      "price": 10.99,
+      "image": "/public/assets/cheeseburger.jpg",
+      "category": "Burgers"
+    },
+    {
+      "id": 3,
+      "name": "Caesar Salad",
+      "description": "Crisp romaine lettuce with Caesar dressing, croutons, and parmesan cheese.",
+      "price": 7.49,
+      "image": "/public/assets/caesar-Salad.jpg",
+      "category": "Salads"
+    },
+    {
+      "id": 4,
+      "name": "Spaghetti Bolognese",
+      "description": "Pasta with rich tomato and meat sauce topped with parmesan.",
+      "price": 12.49,
+      "image": "/public/assets/spaghetti-bolognese.jpg",
+      "category": "Pasta"
+    },
+    {
+      "id": 5,
+      "name": "Tacos",
+      "description": "Soft corn tortillas filled with seasoned beef, lettuce, and salsa.",
+      "price": 9.99,
+      "image": "/public/assets/tacos.jpg",
+      "category": "Mexican"
+    },
+    {
+      "id": 6,
+      "name": "Sushi Platter",
+      "description": "Assorted sushi with fresh fish, rice, and seaweed.",
+      "price": 14.99,
+      "image": "/public/assets/sushi.jpeg",
+      "category": "Japanese"
+    },
+    {
+      "id": 7,
+      "name": "Chicken Curry",
+      "description": "Spicy chicken curry served with steamed rice.",
+      "price": 11.99,
+      "image": "/public/assets/chicken.jpg",
+      "category": "Indian"
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Cake",
+      "description": "Rich chocolate cake with a layer of fudge frosting.",
+      "price": 5.99,
+      "image": "/public/assets/chocolete.jpg",
+      "category": "Desserts"
+    }
+]
+  
